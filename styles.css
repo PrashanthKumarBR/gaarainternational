@@ -318,7 +318,8 @@ padding-bottom: 20px;
   }
   
   .card {
-    height: 1000px ! important;
+    padding-left: 10px ! important;
+    height: 1100px ! important;
     width: 800px ! important;
   }
   
