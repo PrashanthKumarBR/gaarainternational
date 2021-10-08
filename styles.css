@@ -298,8 +298,8 @@ padding-bottom: 20px;
 }
 
   .PC-001 {
-    height: 250px ! important;
-    width: 250px ! important;
+    height: 350px ! important;
+    width: 350px ! important;
   }
   
   .products2page {
@@ -322,7 +322,7 @@ padding-bottom: 20px;
     text-align: center ! important;
   }
 
-  .card {
+ /* .card {
     width: 120% ! important;
   } */
 
@@ -331,8 +331,8 @@ padding-bottom: 20px;
   }
 
   .title-image {
-    position: static;
-    transform: rotate(0);
-    margin-left: 0;
+    position: static ! important;
+    transform: rotate(0) ! important;
+    margin-left: 0 ! important;
   }
 }
