@@ -338,20 +338,20 @@ padding-bottom: 20px;
   }
   
   .brand-name {
-    font-size: 20px ! important;
+    font-size: 50px ! important;
   }
   
   .togglebutton {
-    height: 20px ! important;
-    width: 20px ! important;
+    height: 40px ! important;
+    width: 40px ! important;
   }
   
   .top-btn {
-    padding-left: 20px ! important;
+    padding-left: 50px ! important;
   }
   
   #features {
-    padding-left: 50px ! important;
+    padding-left: 100px ! important;
   }
   
 }
