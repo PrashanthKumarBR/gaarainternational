@@ -314,12 +314,8 @@ padding-bottom: 20px;
 
   .row {
     text-align: center ! important;
-    padding-left: 100px ! important;
+   /* padding-left: 100px ! important; */
   }
-
-  .card {
-    margin-left: 140px ! important;
-  } 
   
   .PC-001 {
     height: 600px ! important;
