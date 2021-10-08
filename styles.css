@@ -347,11 +347,15 @@ padding-bottom: 20px;
   }
   
   .top-btn {
-    padding-left: 200px ! important;
+    padding-left: 180px ! important;
   }
   
   #features {
-    padding-left: 350px ! important;
+    padding-left: 300px ! important;
+  }
+  
+  .nav-link {
+    font-size: 30px ! important;
   }
   
 }
