@@ -336,4 +336,22 @@ padding-bottom: 20px;
     transform: rotate(0) ! important;
     margin-left: 0 ! important;
   }
+  
+  .brand-name {
+    font-size: 20px ! important;
+  }
+  
+  .togglebutton {
+    height: 20px ! important;
+    width: 20px ! important;
+  }
+  
+  .top-btn {
+    padding-left: 20px ! important;
+  }
+  
+  #features {
+    padding-left: 50px ! important;
+  }
+  
 }
