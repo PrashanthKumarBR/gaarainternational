@@ -313,8 +313,8 @@ padding-bottom: 20px;
   }
 
   .row {
-    height: 20% ! important;
-    width: 250% ! important;
+    height: 50% ! important;
+    width: 150% ! important;
     text-align: center ! important;
     padding-left: 100px ! important;
   }
