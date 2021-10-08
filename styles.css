@@ -282,10 +282,10 @@ padding-bottom: 20px;
   }
 
   #pricing {
-    height: 100% ! important;
-    padding-left: 90px ! important;
+    text-align: center ! important;
+    padding-left: 70px ! important;
     padding-right: 120px ! important;
-    width: 100% ! important; */
+    width: 100% ! important;
   }
   
   .products1page {
