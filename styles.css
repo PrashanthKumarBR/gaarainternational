@@ -276,7 +276,7 @@ padding-bottom: 20px;
 }
 
 @media (max-width: 1028px) {
-
+/*
   .colmn {
     padding-left: 35px;
   }
@@ -319,7 +319,7 @@ padding-bottom: 20px;
 
   .card {
     width: 120% ! important;
-  }
+  } */
 
   #title {
     text-align: center;
