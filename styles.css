@@ -320,6 +320,10 @@ padding-bottom: 20px;
   .card {
     margin-left: 140px ! important;
   } 
+  
+  .PC-001 {
+    height: 100px ! important;
+    width: 100px ! important;
 
   #title {
     text-align: center;
