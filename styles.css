@@ -309,12 +309,12 @@ padding-bottom: 20px;
   }
 
   .testimonial-text {
-    font-size: 20px ! important;
+    font-size: 25px ! important;
   }
 
   .row {
     text-align: center ! important;
-    padding-left: 15px ! important; */
+    padding-left: 20px ! important; */
   }
   
   .card {
@@ -342,16 +342,16 @@ padding-bottom: 20px;
   }
   
   .togglebutton {
-    height: 70px ! important;
-    width: 80px ! important;
+    height: 100px ! important;
+    width: 110px ! important;
   }
   
   .top-btn {
-    padding-left: 150px ! important;
+    padding-left: 200px ! important;
   }
   
   #features {
-    padding-left: 250px ! important;
+    padding-left: 350px ! important;
   }
   
 }
