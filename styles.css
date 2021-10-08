@@ -342,16 +342,16 @@ padding-bottom: 20px;
   }
   
   .togglebutton {
-    height: 60px ! important;
-    width: 70px ! important;
+    height: 70px ! important;
+    width: 80px ! important;
   }
   
   .top-btn {
-    padding-left: 100px ! important;
+    padding-left: 150px ! important;
   }
   
   #features {
-    padding-left: 150px ! important;
+    padding-left: 250px ! important;
   }
   
 }
