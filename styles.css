@@ -367,8 +367,8 @@ padding-bottom: 20px;
   }
   
   .dwnd-btn {
-  height: 40x ! important;  
-  width: 70px ! important; 
+  height: 50x ! important;  
+  width: 180px ! important; 
   }
   
   .download-btn {  
@@ -377,6 +377,11 @@ padding-bottom: 20px;
   
   .downd-white {
   font-size: 30px ! important;
+  }
+  
+  #footer {
+  height: 110% ! important;
+  width: 120% ! important;
   }
   
 }
