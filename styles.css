@@ -1,0 +1,333 @@
+body {
+  font-style: "Montserrat";
+}
+#title {
+  background-color: #ff4c68;
+  color: #fff;
+}
+.container-fluid {
+    padding: 2% 10% ! important;
+/*  padding: 23.5px 118px; */
+
+}
+
+h1 {
+  font-family: "Montserrat-Black" ! important;
+  font-size: 3.5rem ! important;
+  line-height: 1 ! important;
+}
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem ! important;
+  line-height: 1.5 ! important;
+}
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 1.5rem ! important;
+}
+ p {
+   color: #8f8f8f;
+ }
+
+/* Navbar */
+
+.navbar {
+padding-left: 0 ! important;
+ padding-bottom: 4.5rem ! important; */
+}
+
+ .navbar1 {
+  padding: 2% 9% 0 9% ! important; */
+}
+
+.navbar-brand {
+  font-family: "Ubuntu" ! important;
+  font-size: 200% ! important;
+  font-weight: bold ! important;
+}
+
+.nav-item {
+  padding-top: 0 ! important;
+  padding-right: 18px ! important;
+  padding-bottom: 0 ! important;
+  padding-left: 18px ! important;
+}
+
+.download-btn {
+  margin: 5% 3% 5% 0 ! important;
+}
+
+.title-image {
+  width: 60%;
+  margin-left: 80px;
+  transform: rotate(25deg);
+}
+/* features */
+
+#features {
+  padding: 7% 15%;
+}
+
+.feature-box {
+  text-align: center;
+  padding: 0 5% ! important;
+}
+
+.icon {
+  color: #ef8172;
+  margin-bottom: 1rem;
+}
+
+.icon:hover {
+  color: #ff4c68;
+}
+
+#testimonials {
+  text-align: center;
+  background-color: #ef8172;
+  color: #fff;
+}
+
+#Alisting {
+  text-align: center;
+  background-color: #ff4c68;
+  color: #fff;
+/*  padding-top: 50px ! important; */
+}
+.aimage {
+  width: 100%;
+}
+
+
+
+.testimonial-image {
+  width: 10%;
+  border-radius: 100%;
+  margin: 20px;
+}
+
+.carousel-item {
+  padding: 7% 10%;
+
+}
+
+#press {
+  background-color: #ef8172;
+  text-align: center;
+  padding-bottom: 3%;
+}
+
+.press-logo1 {
+  width: 15%;
+  margin: 20px;
+  padding-bottom: 40px;
+}
+
+.press-logo2 {
+  width: 15%;
+  margin: 20px;
+  padding-top: 40px;
+}
+
+.press-logo3 {
+  width: 15%;
+  margin: 20px;
+  padding-bottom: 40px;
+}
+
+.press-logo4 {
+  width: 15%;
+  margin: 20px;
+}
+
+/* pricing section */
+
+#pricing {
+  padding: 100px;
+  text-align: center;
+}
+
+#pricing1 {
+  padding: 50px 100px 0 100px;
+  text-align: center;
+  background-color: #ff4c68;
+
+}
+
+.pricing-column {
+  padding: 3% 2%;
+}
+
+a {
+  text-decoration: none ! important;
+}
+
+/* Buttons */
+
+.buynow {
+  color: #00FF00  ! important;
+  }   /* #ffffff */
+
+.download-btn {
+  color: #fff ! important;
+}
+
+.dwnd-btn {
+  height: 50px;
+  width: 150px ! important;
+}
+
+.colmn {
+  text-align: center;
+  padding: 10px 10px 25px 20px;
+}
+
+.downd-white {
+  color: #000000;
+}
+
+a:hover {
+  color: #EAF6F6 ! important;
+}
+
+.e-book {
+  color: #fff;
+  font-size: 20px;
+}
+
+.PC-001 {
+  height: 250px;
+  width: 250px;
+}
+
+.carousel-control-prev-icon {
+ background-image: url("data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' fill='%23000' viewBox='0 0 8 8'%3E%3Cpath d='M5.25 0l-4 4 4 4 1.5-1.5-2.5-2.5 2.5-2.5-1.5-1.5z'/%3E%3C/svg%3E") !important;
+}
+
+.carousel-control-next-icon {
+  background-image: url("data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' fill='%23000' viewBox='0 0 8 8'%3E%3Cpath d='M2.75 0l-1.5 1.5 2.5 2.5-2.5 2.5 1.5 1.5 4-4-4-4z'/%3E%3C/svg%3E") !important;
+}
+
+.bottom-container {
+  text-align: center;
+background-color: #000000;
+padding-top: 20px;
+padding-bottom: 20px;
+} /* #66BFBF */
+
+.bottom {
+  color: #fff;
+  font-size: 12px;
+}
+
+.bottom2 {
+  font-size: 25px;
+  color: #fff;
+}
+
+.bottom3 {
+  color: #fff;
+}
+
+.social1 {
+  padding: 10px;
+  height: 50px;
+  width: 50px;
+}
+
+.social2 {
+  padding: 10px;
+  height: 50px;
+  width: 50px;
+}
+
+.social3 {
+  padding: 10px;
+  height: 50px;
+  width: 60px;
+}
+
+.social4 {
+
+  padding: 10px;
+  height: 60px;
+  width: 60px;
+}
+
+.contact {
+  background-color: #ff4c68;
+  color: #fff;
+}
+
+.BRP {
+  font-style: italic;
+}
+
+.products2page {
+  color: #fff;
+}
+
+.PC-0012nd {
+  color: #000000;
+}
+
+.contact-form {
+  padding: 0 125px 0 125px;
+}
+
+@media (max-width: 1028px) {
+
+  .colmn {
+    padding-left: 35px;
+  }
+
+  #pricing {
+    text-align: center ! important;
+    padding-left: 70px ! important;
+    padding-right: 120px ! important;
+    width: 100% ! important;
+  }
+
+  .products1page {
+    padding-left: 70px;
+  }
+
+  .products1page1 {
+    padding-left: 70px;
+    font-size: 30px ! important;
+}
+
+  .products2page {
+    padding-top: 20px;
+    padding-left: 40px;
+    font-size: 25px ! important;
+  }
+
+  #pricing1 {
+    text-align: center;
+    padding-left: 70px ! important;
+    padding-right: 120px ! important;
+  }
+
+  .testimonial-text {
+    font-size: 20px ! important;
+  }
+
+  .row {
+    text-align: center ! important;
+  }
+
+  .card {
+    width: 120% ! important;
+  }
+
+  #title {
+    text-align: center;
+  }
+
+  .title-image {
+    position: static;
+    transform: rotate(0);
+    margin-left: 0;
+  }
+}
