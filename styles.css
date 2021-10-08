@@ -366,7 +366,12 @@ padding-bottom: 20px;
   font-size: 40px ! important;
   }
   
-  .download-btn {
+  .dwnd-btn {
+  height: 40x ! important;  
+  width: 70px ! important; 
+  }
+  
+  .download-btn {  
   font-size: 30px ! important;
   }
   
