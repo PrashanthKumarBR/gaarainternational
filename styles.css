@@ -317,10 +317,14 @@ padding-bottom: 20px;
    /* padding-left: 100px ! important; */
   }
   
+  .card {
+    height: 1000px ! important;
+    width: 800px ! important;
+  
   .PC-001 {
     height: 600px ! important;
     width: 600px ! important;
-
+  }
   #title {
     text-align: center;
   }
