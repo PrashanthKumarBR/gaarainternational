@@ -314,12 +314,11 @@ padding-bottom: 20px;
 
   .row {
     text-align: center ! important;
-   /* padding-left: 100px ! important; */
+    padding-left: 10px ! important; */
   }
   
   .card {
-    padding-left: 10px ! important;
-    height: 1100px ! important;
+    height: 1050px ! important;
     width: 800px ! important;
   }
   
