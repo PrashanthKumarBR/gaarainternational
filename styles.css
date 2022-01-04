@@ -400,8 +400,11 @@ padding-bottom: 20px;
     padding: 20px ! important;
   }
   
-  .bottom {
+  .Copyright {
      font-size: 20px ! important;
-   }
+  }
+  
+  .message {
+    font-size: 25px ! important;
   
 }
