@@ -379,21 +379,29 @@ padding-bottom: 20px;
   .social1 {
     height: 80px ! important;
     width: 80px ! important;
+    padding: 20px ! important;
   }
   
   .social2 {
     height: 80px ! important;
     width: 80px ! important;
+    padding: 20px ! important;
   }
   
   .social3 {
     height: 80px ! important;
     width: 80px ! important;
+    padding: 20px ! important;
   }
   
   .social4 {
     height: 80px ! important;
     width: 80px ! important;
+    padding: 20px ! important;
   }
+  
+  .bottom {
+     font-size: 20px ! important;
+   }
   
 }
